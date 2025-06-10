@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: z9g7g328l-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/z9g7g328l-nodejs
